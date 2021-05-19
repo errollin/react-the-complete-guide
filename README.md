@@ -1,6 +1,6 @@
 # react-the-complete-guide
 
-A react exercise project from Max and Udemy.
+A react exercise project learn from Max on Udemy.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
